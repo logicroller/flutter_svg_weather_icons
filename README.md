@@ -2,6 +2,8 @@
 
 SVG weather icons with flutter svg
 
+![Alt text](images/weather_icons.jpg?raw=true "Demo")
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
